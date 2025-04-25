@@ -3,8 +3,7 @@
 Trabajo de Fin de Grado en Física – Universidad de Oviedo  
 **Autor:** Pablo Suárez Blanco  
 **Curso:** 2024-2025  
-**Director:** Aurelio Hierro Rodríguez  
-**Codirector:** Joaquín González-Nuevo González  
+**Directores:** Aurelio Hierro Rodríguez  y Joaquín González-Nuevo González  
 
 ---
 
