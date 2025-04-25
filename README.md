@@ -31,4 +31,4 @@ Este repositorio está destinado a fines académicos y de divulgación. Si desea
 
 ##  Contacto
 
-**📧 Email:** [uo289164o@uniovi.es]  
+**📧 Email:** [uo289164@uniovi.es]  
