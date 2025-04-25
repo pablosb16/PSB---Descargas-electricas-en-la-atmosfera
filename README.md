@@ -9,7 +9,7 @@ Trabajo de Fin de Grado en Física – Universidad de Oviedo
 
 ## 📘 Descripción
 
-Este Trabajo de Fin de Grado aborda el estudio teórico y experimental de las descargas eléctricas en la atmósfera, con especial atención a los rayos y fenómenos relacionados. A través de una revisión detallada del estado del arte, modelos históricos y recientes, así como una serie de experimentos propios, se analiza el papel que juegan estos eventos en el equilibrio eléctrico global.
+Este Trabajo de Fin de Grado se centra en el análisis físico de las descargas eléctricas atmosféricas desde un enfoque teórico-experimental. Se realiza una revisión crítica del estado del arte, incluyendo modelos clásicos y contemporáneos sobre la electrificación de nubes, separación de cargas y ruptura dieléctrica del aire. Paralelamente, se desarrollan y ejecutan procedimientos experimentales para la caracterización espectral del pulso electromagnético asociado a rayos (LEMP) y la estimación de la carga eléctrica en gotas de lluvia, con el objetivo de evaluar su contribución al equilibrio eléctrico global y al circuito eléctrico terrestre.
 
 ---
 
