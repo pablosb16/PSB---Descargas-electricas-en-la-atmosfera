@@ -15,7 +15,7 @@ Este Trabajo de Fin de Grado aborda el estudio teórico y experimental de las de
 
 ## 🧠 Contenido del Repositorio
 
-- `Documento`: Documento PDF final del TFG (versión pública).
+- `Documentos`: Documento PDF final del TFG (versión pública).
 - `Códigos`: Scripts utilizados para el análisis de datos y la adquisición experimental.
 - `Datos`: Archivos de datos obtenidos en los experimentos.
 - `Figuras`: Imágenes, esquemas y gráficas utilizadas en el trabajo o códigos para generarlas.
