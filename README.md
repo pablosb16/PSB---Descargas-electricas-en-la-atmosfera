@@ -23,12 +23,12 @@ Este Trabajo de Fin de Grado aborda el estudio teórico y experimental de las de
 
 ---
 
-##  Nota
+## 📝 Nota
 
 Este repositorio está destinado a fines académicos y de divulgación. Si deseas utilizar parte del contenido o los datos, por favor, menciona al autor o contacta previamente.
 
 ---
 
-##  Contacto
+## 💬 Contacto
 
 **📧 Email:** [uo289164@uniovi.es]  
