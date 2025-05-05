@@ -250,7 +250,7 @@ min_len = min(len(freqs_positive), len(freqs_positive2))
 freqs_common = freqs_positive[:min_len]
 fft_diff = fft_corrected[:min_len] / fft_corrected2[:min_len]
 
-plt.figure(figsize=(12, 6), facecolor='#d7d8ff')
+plt.figure(figsize=(12, 6))
 plt.suptitle('Diferencia entre Tormenta y Referencia', fontsize=16, fontweight='bold')
 plt.title('FFT: Diferencia entre Tormenta y Referencia', fontsize=12)
 
@@ -269,7 +269,7 @@ colors = plt.cm.tab20(np.linspace(0, 1, len(frequencies_schumann)))
 
 # Añadir líneas verticales para cada frecuencia Schumann
 for i, freq in enumerate(frequencies_schumann):
-    plt.axvline(x=freq, color=colors[i], linestyle='--', alpha=0.7, label=f'Resonancia {i+1}: {freq:.1f} Hz')
+    plt.axvline(x=freq, color=colors[i], linestyle='--', alpha=0.7)
 
 plt.vlines(x=6.1, ymin=0, ymax=13, color='rosybrown', linewidth=2)
 
