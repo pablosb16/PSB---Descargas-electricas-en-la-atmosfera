@@ -15,17 +15,12 @@ Este Trabajo de Fin de Grado se centra en el análisis físico de las descargas 
 
 ## 🧠 Contenido del Repositorio
 
-- `Documentos`: Documento PDF final del TFG (versión pública).
+- `Documentos`: Documentos sobre el TFG para la asignatura de Laboratorio Avanzado
 - `Códigos`: Scripts utilizados para el análisis de datos y la adquisición experimental.
 - `Datos`: Archivos de datos obtenidos en los experimentos.
 - `Figuras`: Imágenes, esquemas y gráficas utilizadas en el trabajo o códigos para generarlas.
 - `Notas`: Apuntes, esquemas de trabajo y referencias bibliográficas.
 
----
-
-## 📝 Nota
-
-Este repositorio está destinado a fines académicos y de divulgación. Si deseas utilizar parte del contenido o los datos, por favor, menciona al autor o contacta previamente.
 
 ---
 
